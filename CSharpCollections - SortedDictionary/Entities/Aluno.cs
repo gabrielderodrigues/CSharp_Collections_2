@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpCollections_2___SortedList.Entities
+namespace CSharpCollections_2___SortedDictionary.Entities
 {
     /// <summary>
     /// Representa um Aluno, com nome e número de matrícula

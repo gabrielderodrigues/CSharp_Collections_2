@@ -1,8 +1,8 @@
-﻿using CSharpCollections_2.Entities;
+﻿using CSharpCollections_2___SortedList.Entities;
 using System;
 using System.Collections.Generic;
 
-namespace CSharpCollections_2
+namespace CSharpCollections_2___SortedList
 {
     public class Program
     {
