@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - Consu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - OutrosOperadoresLinq", "CSharpCollections_2 - OutrosOperadoresLinq\CSharpCollections_2 - OutrosOperadoresLinq.csproj", "{C7857BE2-3819-488D-8E45-5BE334E4AE40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - OperadoresDeConjuntos", "CSharpCollections_2 - OperadoresDeConjuntos\CSharpCollections_2 - OperadoresDeConjuntos.csproj", "{31B8DC25-7D41-4756-8164-70CD7C607A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C7857BE2-3819-488D-8E45-5BE334E4AE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7857BE2-3819-488D-8E45-5BE334E4AE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7857BE2-3819-488D-8E45-5BE334E4AE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B8DC25-7D41-4756-8164-70CD7C607A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B8DC25-7D41-4756-8164-70CD7C607A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B8DC25-7D41-4756-8164-70CD7C607A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B8DC25-7D41-4756-8164-70CD7C607A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
