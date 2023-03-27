@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - Sorte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - Array Multidimensional", "CSharpCollections_2 - Array Multidimensional\CSharpCollections_2 - Array Multidimensional.csproj", "{EC4D0B81-EF09-4C8B-BE4B-10E2DA4FC975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections_2 - JaggedArrays", "CSharpCollections_2 - JaggedArrays\CSharpCollections_2 - JaggedArrays.csproj", "{1E11477D-6F5E-4519-B9E4-2A905DD16513}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EC4D0B81-EF09-4C8B-BE4B-10E2DA4FC975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC4D0B81-EF09-4C8B-BE4B-10E2DA4FC975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC4D0B81-EF09-4C8B-BE4B-10E2DA4FC975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E11477D-6F5E-4519-B9E4-2A905DD16513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E11477D-6F5E-4519-B9E4-2A905DD16513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E11477D-6F5E-4519-B9E4-2A905DD16513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E11477D-6F5E-4519-B9E4-2A905DD16513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
