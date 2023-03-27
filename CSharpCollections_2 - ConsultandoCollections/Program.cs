@@ -43,7 +43,7 @@ namespace CSharpCollections_2___ConsultandoCollections
             foreach (var mes in filtroMeses)
             {
                 Console.WriteLine($"{mes.Nome.ToUpper()} - {mes.Dias} dia(s).");
-            }
+            }            
         }
 
         public class Mes
